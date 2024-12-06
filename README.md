@@ -1,5 +1,11 @@
 # Football Tracker
 
+<video width="600" controls>
+  <source src=".//football_tracking_all_algorithms.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 https://github.com/user-attachments/assets/c19cb502-29cb-44ac-9b8b-e66100c254a2
 
 This Python script compares the performance of five OpenCV tracking algorithms (BOOSTING, MIL, KCF, TLD, CSRT) by tracking a selected object in a video. It displays the tracking results in a four-quadrant view and saves the output as a video file. This demonstration is useful for evaluating the suitability of different tracking algorithms for various use cases.
