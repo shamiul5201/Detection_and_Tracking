@@ -1,10 +1,7 @@
 # Football Tracker
 
-<video width="600" controls>
-  <source src=".//football_tracking_all_algorithms.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+![](football_tracking_all_algorithms.mp4?raw=true)
 
 https://github.com/user-attachments/assets/c19cb502-29cb-44ac-9b8b-e66100c254a2
 
